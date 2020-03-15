@@ -1,0 +1,14 @@
+List:
+1. Small gold ingot, 30
+2. Big gold ingot, 70
+3. Mountain stone, 4
+4. Lake stone, 2
+5. Silver ingot, 27
+6. Red diamond, 300
+7. White diamond, 500
+8. Black diamond, 400
+9. Gold crown, 70
+10. Gold ring (small), 74
+11. Silver ring(small), 70
+12. Gold ring(big), 960
+13. Silver ring(big), 92

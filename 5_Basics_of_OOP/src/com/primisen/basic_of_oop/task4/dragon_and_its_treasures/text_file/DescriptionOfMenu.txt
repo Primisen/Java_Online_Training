@@ -1,0 +1,5 @@
+
+1. Press 1 to view the list of treasures.
+2. Press 2 to view max price of treasure.
+5. Press 5 to exit out.
+
